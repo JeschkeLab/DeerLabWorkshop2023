@@ -4,8 +4,10 @@ This repository contains all the materials for the 2023 DeerLab workshop, and is
 
 To access the online materials launch Binder by clicking on the following badge: 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeschkeLab/DeerLabWorkshop2022/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HKaras/DeerLabWorkshop2023/main)
 
+The presentation
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HKaras/DeerLabWorkshop2023/main/notebooks/presentation.ipynb)
 
 ## License
 
