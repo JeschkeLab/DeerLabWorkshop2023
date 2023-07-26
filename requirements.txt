@@ -2,4 +2,4 @@ numpy
 matplotlib
 scipy
 deerlab
-rise
+jupyterlab_rise
