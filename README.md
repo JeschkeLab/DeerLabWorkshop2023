@@ -4,8 +4,7 @@ This repository contains all the materials for the 2023 DeerLab workshop, and is
 
 To access the online materials launch Binder by clicking on the following badge: 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/HKaras/DeerLabWorkshop2023/main)
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HKaras/DeerLabWorkshop2023/main)
 
 ## License
 
