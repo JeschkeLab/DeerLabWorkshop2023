@@ -6,6 +6,9 @@ To access the online materials launch Binder by clicking on the following badge:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HKaras/DeerLabWorkshop2023/main)
 
+The presentation
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HKaras/DeerLabWorkshop2023/main/notebooks/presentation.ipynb)
+
 ## License
 
 All 2023 DeerLab Workshop's materials are licensed under the MIT License.
