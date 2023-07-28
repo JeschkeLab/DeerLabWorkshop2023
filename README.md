@@ -10,7 +10,7 @@ The presentation
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HKaras/DeerLabWorkshop2023/main/notebooks/presentation.ipynb)
 
 ## Contents
-1. Installing Python on your computer (pre-requisite)
+1. (Installing Python on your computer (pre-requisite))[https://github.com/HKaras/DeerLabWorkshop2023/blob/main/notebooks/00-Installing-Python.md]
 2. Getting started with Python (pre-requisite)
 3. DeerLab 101 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/HKaras/DeerLabWorkshop2023/blob/main/notebooks/presentation.ipynb)
 4. Advanced DeerLab (Comming Soon)
