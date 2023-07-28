@@ -12,7 +12,7 @@ The presentation
 ## Contents
 1. Installing Python on your computer (pre-requisite)
 2. Getting started with Python (pre-requisite)
-3. DeerLab 101
+3. DeerLab 101 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/HKaras/DeerLabWorkshop2023/blob/main/notebooks/presentation.ipynb)
 4. Advanced DeerLab (Comming Soon)
 
 
