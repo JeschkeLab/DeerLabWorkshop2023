@@ -7,7 +7,7 @@ To access the online materials launch Binder by clicking on the following badge:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HKaras/DeerLabWorkshop2023/main)
 
 The presentation
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HKaras/DeerLabWorkshop2023/main?filepath=enotebooks/presentation.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HKaras/DeerLabWorkshop2023/main?filepath=notebooks/presentation.ipynb)
 
 ## Contents
 1. Installing Python on your computer (pre-requisite) [Open](https://github.com/HKaras/DeerLabWorkshop2023/blob/main/notebooks/00-Installing-Python.md)
