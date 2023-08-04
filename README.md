@@ -13,9 +13,9 @@ The presentation
 1. Installing Python on your computer (pre-requisite) [Open](https://github.com/HKaras/DeerLabWorkshop2023/blob/main/notebooks/00-Installing-Python.md)
 2. Getting started with Python (pre-requisite) 
 3. DeerLab 101
-     - Presentation:   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/HKaras/DeerLabWorkshop2023/blob/main/notebooks/presentation.ipynb)
-     - Notes:        [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/HKaras/DeerLabWorkshop2023/blob/main/notebooks/presentation.ipynb)
-     - Exercise:      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/HKaras/DeerLabWorkshop2023/blob/main/notebooks/presentation.ipynb)
+     - Presentation:   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JeschkeLab/DeerLabWorkshop2023/blob/main/notebooks/presentation.ipynb)
+     - Notes:        [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JeschkeLab/DeerLabWorkshop2023/blob/main/notebooks/presentation.ipynb)
+     - Exercise:      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JeschkeLab/DeerLabWorkshop2023/blob/main/notebooks/presentation.ipynb)
 5. Advanced DeerLab (Comming Soon)
 
 
