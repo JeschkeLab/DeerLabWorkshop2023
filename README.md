@@ -7,13 +7,16 @@ To access the online materials launch Binder by clicking on the following badge:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HKaras/DeerLabWorkshop2023/main)
 
 The presentation
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HKaras/DeerLabWorkshop2023/main/notebooks/presentation.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HKaras/DeerLabWorkshop2023/main?filepath=notebooks/presentation.ipynb)
 
 ## Contents
-1. Installing Python on your computer (pre-requisite)
-2. Getting started with Python (pre-requisite)
-3. DeerLab 101 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/HKaras/DeerLabWorkshop2023/blob/main/notebooks/presentation.ipynb)
-4. Advanced DeerLab (Comming Soon)
+1. Installing Python on your computer (pre-requisite) [Open](https://github.com/HKaras/DeerLabWorkshop2023/blob/main/notebooks/00-Installing-Python.md)
+2. Getting started with Python (pre-requisite) 
+3. DeerLab 101
+     - Presentation:   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/HKaras/DeerLabWorkshop2023/blob/main/notebooks/presentation.ipynb)
+     - Notes:        [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/HKaras/DeerLabWorkshop2023/blob/main/notebooks/presentation.ipynb)
+     - Exercise:      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/HKaras/DeerLabWorkshop2023/blob/main/notebooks/presentation.ipynb)
+5. Advanced DeerLab (Comming Soon)
 
 
 ## License
