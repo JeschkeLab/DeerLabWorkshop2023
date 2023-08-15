@@ -1,4 +1,4 @@
-# 2023 DeerLab Workshop
+# 2023 DeerLab Workshop @EFEPR
 
 This repository contains all the materials for the 2023 DeerLab workshop, and is based upon the previous 2022 DeerLab workshop by Luis Fábregas Ibáñez.
 
