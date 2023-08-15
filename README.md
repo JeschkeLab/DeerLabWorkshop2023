@@ -16,7 +16,7 @@ The presentation
      - Presentation:   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JeschkeLab/DeerLabWorkshop2023/blob/main/notebooks/presentation.ipynb)
      - Notes:        [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JeschkeLab/DeerLabWorkshop2023/blob/main/notebooks/presentation.ipynb)
      - Exercise:      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JeschkeLab/DeerLabWorkshop2023/blob/main/notebooks/presentation.ipynb)
-5. Advanced DeerLab (Comming Soon)
+5. RIDME Examples
 
 
 ## License
