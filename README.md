@@ -11,7 +11,7 @@ For the 2023 you are required to have installed Python and completed the Getting
      - Presentation:   
      - Notes:        
      - Exercise:      
-5. RIDME Examples
+5. RIDME Examples (For RIDME Workshop with Sergei Kuzin)
 
 
 These online materials can be acessed without installation on Binder. This service can be slow.
