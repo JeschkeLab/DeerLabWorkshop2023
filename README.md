@@ -9,8 +9,9 @@ For the 2023 you are required to have installed Python and completed the Getting
 2. Getting started with Python (pre-requisite) 
 3. DeerLab 101
      - Presentation:   
-     - Notes:        
-     - Exercise:      
+     - Exercise:
+     - Exercise Solutions
+     - Deerlab CheatSheet      
 5. RIDME Examples (For RIDME Workshop with Sergei Kuzin)
 
 
