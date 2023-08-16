@@ -15,6 +15,7 @@ For the 2023 you are required to have installed Python and completed the Getting
 
 
 These online materials can be acessed without installation on Binder. This service can be slow.
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HKaras/DeerLabWorkshop2023/main)
 
 ## License
