@@ -1,23 +1,21 @@
 # 2023 DeerLab Workshop @EFEPR
 
-This repository contains all the materials for the 2023 DeerLab workshop, and is based upon the previous 2022 DeerLab workshop by Luis Fábregas Ibáñez.
+This repository contains all the materials for the 2023 DeerLab workshop @ EFEPR Summer School, and is based upon the previous 2022 DeerLab workshop by Luis Fábregas Ibáñez.
 
-To access the online materials launch Binder by clicking on the following badge: 
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HKaras/DeerLabWorkshop2023/main)
-
-The presentation
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HKaras/DeerLabWorkshop2023/main?filepath=notebooks/presentation.ipynb)
+For the 2023 you are required to have installed Python and completed the Getting Started with Python Guide. In addition you should [download this folder/repo](https://github.com/JeschkeLab/DeerLabWorkshop2023/archive/refs/heads/main.zip). 
 
 ## Contents
-1. Installing Python on your computer (pre-requisite) [Open](https://github.com/HKaras/DeerLabWorkshop2023/blob/main/notebooks/00-Installing-Python.md)
+1. Installing Python on your computer (pre-requisite) 
 2. Getting started with Python (pre-requisite) 
 3. DeerLab 101
-     - Presentation:   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JeschkeLab/DeerLabWorkshop2023/blob/main/notebooks/presentation.ipynb)
-     - Notes:        [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JeschkeLab/DeerLabWorkshop2023/blob/main/notebooks/presentation.ipynb)
-     - Exercise:      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JeschkeLab/DeerLabWorkshop2023/blob/main/notebooks/presentation.ipynb)
+     - Presentation:   
+     - Notes:        
+     - Exercise:      
 5. RIDME Examples
 
+
+These online materials can be acessed without installation on Binder. This service can be slow.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HKaras/DeerLabWorkshop2023/main)
 
 ## License
 
