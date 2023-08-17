@@ -55,7 +55,7 @@ Jupyter Lab is a self-hosted web based IDE for Jupyter Notebooks.
 
 1. It can be installed using pip
    ```
-   pip install jupyter-lab
+   pip install jupyterlab
    ```
 2. Start Jupyter Lab from Command Prompt
    ```
