@@ -4,9 +4,16 @@ This repository contains all the materials for the 2023 DeerLab workshop @ EFEPR
 
 For the 2023 you are required to have installed Python and completed the Getting Started with Python Guide. In addition you should [download this folder/repo](https://github.com/JeschkeLab/DeerLabWorkshop2023/archive/refs/heads/main.zip). 
 
+## Office Hours August 2023
+For attendees of the 2023 EFEPR Summer School there will be two office hours for installation and basic python help.
+
+Dates: Monday 28th and Tuesday 29th August 3-4pm CEST
+
+Zoom Link: https://ethz.zoom.us/meeting/u5Erd-mpqjwpH9Bj2M-MrG0MO_87cl66Smkw/ics?icsToken=98tyKu-tqDsqG9CSsxyDR_MMBIigc-vwiGZegvp_lk3ITg1BRVPbGd0aZbFzRo7j
+
 ## Contents
-1. Installing Python on your computer (pre-requisite) 
-2. Getting started with Python (pre-requisite) 
+1. Installing Python on your computer (pre-requisite) [here](https://github.com/JeschkeLab/DeerLabWorkshop2023/blob/main/notebooks/00-Installing-Python.md)
+2. Getting started with Python (pre-requisite) [here](https://github.com/JeschkeLab/DeerLabWorkshop2023/blob/main/notebooks/01-python-basics.ipynb)
 3. DeerLab 101
      - Presentation:   
      - Exercise:
