@@ -1,23 +1,24 @@
-* Exported from Matlab using EasySpin, 07-Apr-2022 17:00:22
+* Exported from Python using EasySpin, 2023-08-17 10:41:30
 #DESC	1.2 * DESCRIPTOR INFORMATION ***********************
 DSRC	MAN
-BSEQ	BIG
+BSEQ	LIT
 IKKF	CPLX
 IRFMT	D
 IIFMT	D
 XTYP	IDX
 YTYP	NODATA
 ZTYP	NODATA
-XPTS	488
-XMIN	0
-XWID	3896
+XPTS	1076
+XMIN	100.0
+XWID	8600.000000000007
+TITL	'Vsim'
 *
 ************************************************************
 *
 #SPL	1.2 * STANDARD PARAMETER LAYER
 OPER	
-DATE	07/04/22
-TIME	17:00:22
+DATE	17/08/23
+TIME	10:41:30
 CMNT	
 SAMP	
 SFOR	
