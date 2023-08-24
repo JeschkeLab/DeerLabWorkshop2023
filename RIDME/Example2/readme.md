@@ -25,3 +25,7 @@ The last cell contains code for plotting. We have also added an emprirical fir o
 ### Outlook
 
 One has access to all fitting results via, for example, `results[0].P`. Therefore, you can compare distance distributions and their uncertainties for different mixing times. Alternatively, you can try to perform a global fitting of the dataset assuming a unique distance distribution. More details are in the [DeerLab example](https://jeschkelab.github.io/DeerLab/auto_examples/intermediate/ex_global_fitting_4pdeer.html#sphx-glr-auto-examples-intermediate-ex-global-fitting-4pdeer-py) and the [DeerLab guide](https://jeschkelab.github.io/DeerLab/modeling_guide.html).
+
+### License
+
+Designed and prepared by Sergei Kuzin, ETH Zurich, 2023. Free to use, modify and share.
