@@ -50,7 +50,11 @@ pip install jupyter
 ```
 
 ### Checking the Install
+Run this command to check that deerlab is install properly
 
+```
+python -c "import deerlab; print(deerlab.dd_gauss)"
+```
 ## 3) Installing VScode or Jupyter Lab
 
 Whilst everything above is all that is required to use DeerLab it is highly recomended that an IDE is used to program. Here there is two options:
@@ -85,6 +89,12 @@ Jupyter Lab is a self-hosted web based IDE for Jupyter Notebooks.
    ```
 2. Start Jupyter Lab from Command Prompt
    ```
-   jupyter lab
+   jupyter-lab
    ```
 3. Navigate to the relevant folder
+
+## 4) Downloading these files
+To do the course you want to make sure that you have successfully downloaded these scripts and data. This can be download as a zip file by pressing this link. [download this folder/repo](https://github.com/JeschkeLab/DeerLabWorkshop2023/archive/refs/heads/main.zip)
+
+Then open this folder in either VScode or Jupyter lab. Before the course have a look at 01-python-basics.
+
