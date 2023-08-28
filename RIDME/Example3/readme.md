@@ -12,7 +12,7 @@ $$F(t) = 1-\lambda_0 + \lambda_1 F_1(t) + \lambda_2 F_2(t) + ...$$
 $$F(t) = 1-\lambda_0 + \sum_{j=1}^{N} \lambda_j F_1(jt)$$
 
 From the intensity normalization condition we additionally get $\lambda_0 = \sum_{j=1}^{N} \lambda_j$ and we will call $\lambda_0$ a total modulation depth. Finally, we introduce normalized dipolar overtone coefficiens $P_j$ via the following relation $\lambda_j = \lambda_0\cdot P_j$. The goal of the correct data processing is to account for the dipolar overtones in the signal. Without this consideration, we would need to deal with phantom distances in the distance distribution. The apparent $P(r)$ is then
-$$P_\text{app}(r) = \sum_{j=1}^{N} \lambda_j P_\text{true}(j^{1/3}r).$$
+$$P_\text{app}(r) = \sum_{j=1}^{N} P_j \cdot P_\text{true}(j^{1/3}r).$$
 
 
 ### Code structure
