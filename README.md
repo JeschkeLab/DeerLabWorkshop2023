@@ -26,7 +26,7 @@ Zoom Link: https://ethz.zoom.us/meeting/u5Erd-mpqjwpH9Bj2M-MrG0MO_87cl66Smkw/ics
 
 These online materials can be acessed without installation on Binder. This service can be slow.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HKaras/DeerLabWorkshop2023/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeschkeLab/DeerLabWorkshop2023/main)
 
 ## License
 
