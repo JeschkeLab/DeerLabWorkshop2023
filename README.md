@@ -17,9 +17,10 @@ Zoom Link: https://ethz.zoom.us/meeting/u5Erd-mpqjwpH9Bj2M-MrG0MO_87cl66Smkw/ics
 1. Installing Python on your computer (pre-requisite) [here](https://github.com/JeschkeLab/DeerLabWorkshop2023/blob/main/DeerLab/00-Installing-Python.md)
 2. Getting started with Python (pre-requisite) [here](https://github.com/JeschkeLab/DeerLabWorkshop2023/blob/main/DeerLab/01-python-basics.ipynb)
 3. DeerLab 101
-     - Presentation:   
+     - Basics of Deerlab:   
      - Exercise:
      - Exercise Solutions
+     - Advanced Techniques
      - Deerlab CheatSheet      
 5. RIDME Examples (For RIDME Workshop with Sergei Kuzin)
 
