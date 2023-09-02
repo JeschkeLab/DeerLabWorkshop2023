@@ -11,20 +11,23 @@ Dates: Monday 28th and Tuesday 29th August 3-4pm CEST
 
 Zoom Link: https://ethz.zoom.us/meeting/u5Erd-mpqjwpH9Bj2M-MrG0MO_87cl66Smkw/ics?icsToken=98tyKu-tqDsqG9CSsxyDR_MMBIigc-vwiGZegvp_lk3ITg1BRVPbGd0aZbFzRo7j
 
+[Note: Now these are over please email me at hkaras@ethz.ch if you have questions]
+
 ## Contents
 1. Installing Python on your computer (pre-requisite) [here](https://github.com/JeschkeLab/DeerLabWorkshop2023/blob/main/DeerLab/00-Installing-Python.md)
 2. Getting started with Python (pre-requisite) [here](https://github.com/JeschkeLab/DeerLabWorkshop2023/blob/main/DeerLab/01-python-basics.ipynb)
 3. DeerLab 101
-     - Presentation:   
+     - Basics of Deerlab:   
      - Exercise:
      - Exercise Solutions
+     - Advanced Techniques
      - Deerlab CheatSheet      
 5. RIDME Examples (For RIDME Workshop with Sergei Kuzin)
 
 
 These online materials can be acessed without installation on Binder. This service can be slow.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HKaras/DeerLabWorkshop2023/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeschkeLab/DeerLabWorkshop2023/main)
 
 ## License
 
