@@ -1,0 +1,74 @@
+;Q-BAND PulseSPEL SCRIPT definitions for all RIDME experiments
+;
+;     PulseSPEL variables for DEER experiments
+;
+begin defs
+;                                               
+;
+;                                                         Gunnar Jeschke, 2002
+; ### Block of used variables ###
+;
+; Repetition time
+;
+srt  = 12000 * srtu ; shot repetition time, srtu= 1 µs
+;                  ; usual values for nitroxides: 1000 * srtu at 80 K
+;                  ; 10000...40000 * srtu at 15 K
+;
+; Pulse lengths
+;                        
+p0   = 12      ; pi/2 pulse
+p1   = 24      ; pi pulse
+      
+;
+; Variable delays
+;
+d0   = 680     ; trigger delay
+
+d1   = 400     ; tau1
+d2   = 1500    ; tau2
+d3   = 280     ; initial delay for the mixing block
+d4   = 16000   ; (initial) length of mixing block
+;
+; Time increments
+;
+d30  = 8       ; step of mixing block
+d31  = 16      ; step for nuclear modulation suppression
+
+;
+; Counters
+;
+h    = 20      ; number of shots/loop                     ( counter: I )
+n    = 1       ; number of sweeps to accumulate           ( counter: K )
+m    = 1       ; number of tau1 averages for nuclear modulation
+;                suppression
+;
+; ### Block of additional variables (Bruker definitions) ###
+p3   = 12      ;
+p7   = 80      ; LeCroy trigger
+p9   = 1000    
+pg   = 2*p1    ; Integrator Gate Width
+;
+;
+
+                        ;
+dx   = 0       ; t time scale starting value
+dy   = 0       ; t1 time scale starting value
+               ;
+
+d20  = 0       ; Initial value of dx
+d21  = 0       ; Initial value of dy
+                        ;
+s    = 300     ; Sweep length (n. of data really taken)   ( counter: X )
+t    = 1       ; second time axsis sweep length           ( counter: Y )
+              ;
+r    = 1       ;
+c    = 0       ;
+b    = 1       ;
+             ;
+w    = 180     ; Split point of sweeps (ns) ,i.e. pulse separation where
+             ; TWT gate pulse can be split.
+;
+d6   = 100 us  
+
+
+end defs
